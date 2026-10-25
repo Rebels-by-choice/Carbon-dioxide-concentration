@@ -4,7 +4,7 @@ Carbon dioxide (CO₂) is a greenhouse gas that contributes to Earth's warming b
 
 This project focuses on forecasting monthly atmospheric CO₂ concentration using historical measurements from the Mauna Loa Observatory. Concentration is expressed in parts per million (ppm). These measurements describe atmospheric background conditions at a specific monitoring location and should not be interpreted as direct measurements of air quality in a Polish city or as the exact global average.
 
-The forecasting task is to use past observations to estimate future monthly values. A Holt-Winters exponential smoothing model will be used to represent the trend and seasonal pattern
+The forecasting task is to use past observations to estimate future monthly values. A Holt-Winters exponential smoothing model will be used to represent the trend and seasonal pattern.
 
 ## Workflow
 1. Select and Verify the dataset.
