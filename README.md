@@ -40,5 +40,6 @@ Then, use the environment:
 Now inside the environment, update pip and install dependencies:
 
 ```powershell
-in future there will be commands here
+python -m pip install --upgrade pip
+python -m pip install matplotlib
 ```
